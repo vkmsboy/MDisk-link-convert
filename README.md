@@ -29,7 +29,7 @@ Done ✅
 Start your Bot in Telegram & Enjoy
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Shashwat-Shukla/mdisk-ultra-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Lonelykingsl/MDisk-link-convert)
 
 # ❤️ Support
 <a href="https://t.me/thanimaibots"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
