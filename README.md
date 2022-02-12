@@ -31,6 +31,15 @@ Start your Bot in Telegram & Enjoy
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Shashwat-Shukla/mdisk-ultra-bot)
 
+# ❤️ Support
+<a href="https://t.me/thanimaibots"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+
+<a href="https://t.me/thanimaisupport"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+
+
+
+
+
 ##### Required Variables
 
 - `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
